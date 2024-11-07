@@ -1,2 +1,2 @@
 # rhoCentralChtMultiRegionFoam
-Transient conjugate heat transfer solver with supersonic capabilities
+## Transient conjugate heat transfer solver with supersonic capabilities
